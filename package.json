@@ -1,12 +1,23 @@
 {
-  "name": "jest",
+  "name": "jest-training",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloHMartin/jest.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PabloHMartin/jest/issues"
+  },
+  "homepage": "https://github.com/PabloHMartin/jest#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
 }
